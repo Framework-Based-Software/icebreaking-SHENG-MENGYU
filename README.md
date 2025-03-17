@@ -1,11 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/0MOLbOcH)
 # Introduction
-Hi! I'm [Your Name], a student in the Framework-Based Software Design and Development course. 
-I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
-
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
-
+Hi! I'm [SHENG MENGYU],a student in the Framework-Based Software Design and Development course.
+I look forward to enhancing my proficiency in software framework applications through the study of this course.
+- **Fun fact**: I love watching Tv in my free time.
+- **Course expectations**: Gain practical experience in flexibly applying software frameworks.
+[My Image](https://github.com/user-attachments/assets/2ad9ad6a-1737-47c5-a6f4-fa52f06ee82a)
 ## GitHub Profile
+You can view my personalized GitHub profile 
+[here](https://github.com/SHENG-MENGYU).
 
-You can view my personalized GitHub profile [here, insert link to your github profile]
+
+
 
