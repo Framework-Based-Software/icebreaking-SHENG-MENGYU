@@ -2,7 +2,8 @@
 # Introduction
 Hi! I'm [SHENG MENGYU], a student in the Framework-Based Software Design and Development course. 
 I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
-![image]<--https://github.com/user-attachments/assets/265eb585-58d8-4278-9038-7428c3239942-->
+
+[image][https://github.com/user-attachments/assets/265eb585-58d8-4278-9038-7428c3239942]
 
 ## GitHub Profile
 
