@@ -4,7 +4,12 @@ You can deepen your understanding of me through the following information：
 
 **👩‍💻Educational background**: Master's student in Software Engineering at the University of Malaya.
 
-**🌱Course expectations**:  Gain practical experience in flexibly applying software frameworks.
+**🌱Course expectations**:  After completing my master's program, I hope to achieve the following improvements and achievements
+
+- Deepening and expanding core technological capabilities.
+- Complete project experience and team collaboration ability.
+- Academic research and innovation capability.
+- Comprehensive professional competence improvement.
 
 **✨Hobbies**: Reading, listening to music.
 
